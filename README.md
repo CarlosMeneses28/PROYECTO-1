@@ -1,0 +1,1 @@
+Codigo en C del primer proyecto de la asignatura "Diseño de Sistemas con Procesadores", cuyo propósito es rankear mas de tres mil papers y mostrar el top 10 con su respectivo puntaje PageRank. Tener en cuenta que el archivo del que se lee la información es un archivo de texto con la matriz de adyacencia de losnodos
